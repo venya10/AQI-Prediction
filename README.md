@@ -1,4 +1,4 @@
-# AQI Prediction — Indian Cities (2015–2020)
+# AQI Prediction - Indian Cities (2015–2020)
 
 Predicting Air Quality Index (AQI) for Indian cities using machine learning (Random Forest) and a fuzzy logic model (ANFIS in MATLAB), trained on daily pollution records from 2015 to 2020.
 
@@ -7,7 +7,7 @@ Predicting Air Quality Index (AQI) for Indian cities using machine learning (Ran
 | Model | RMSE | R² |
 |---|---|---|
 | Random Forest | 37.03 | 0.925 |
-| ANFIS (MATLAB) | — | — |
+| ANFIS (MATLAB) | 26.72 | 0.938 |
 
 ## Dataset
 
